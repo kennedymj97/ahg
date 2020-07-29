@@ -3,6 +3,7 @@
 - White surfaces -> high reflectivity, get the most out of the light, reduce light extinction.
 - Growing medium/substrate/compost -> what the plant is growing in
 	- https://growingmedia.co.uk/about/what-is-growing-media-.html
+	- A neoprene collar may be a good option for a reusable medium [as used here](https://www.youtube.com/watch?v=z27lzS1l9_8)
 - Hydroponic farming - growing food without soil, the plants roots are continuously immersed in water
 - Aeroponics - similar setup to hydroponic systems, but the water is pressurised and fired over the plants in a mist
 - Both hydroponics and aeroponics both need some nutrients solution, is this mixed with the water?
